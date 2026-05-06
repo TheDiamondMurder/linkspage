@@ -21,5 +21,10 @@
       "url": "https://leaguesbuilder.com",
       "description": "Build and run a league on my league tool"
     }
+    {
+      "label": "EMA Planespot Guide",
+      "url": "https://cdn.jakublabs.xyz/pdf/EastMidlandsAirport_SpottingGuide%20New.pdf",
+      "description": "A comprehensive planespotting guide at East Midlands Airport"
+    },
   ]
 }
