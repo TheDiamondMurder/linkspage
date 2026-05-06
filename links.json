@@ -15,6 +15,11 @@
       "label": "Main Site",
       "url": "https://jakublabs.xyz",
       "description": "My website"
+    },
+    {
+      "label": "League Builder",
+      "url": "https://leaguesbuilder.com",
+      "description": "Build and run a league on my league tool"
     }
   ]
 }
