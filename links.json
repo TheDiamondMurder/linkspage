@@ -1,0 +1,20 @@
+{
+  "bio": "get rich or die tryin",
+  "links": [
+    {
+      "label": "Photography Instagram",
+      "url": "https://www.instagram.com/jakubondslr/",
+      "description": "train photography, plane photography, sports photography and allat"
+    },
+    {
+      "label": "Project City",
+      "url": "https://store.steampowered.com/app/2483050/Project_City/",
+      "description": "Get Project City on Steam"
+    },
+    {
+      "label": "Main Site",
+      "url": "https://jakublabs.xyz",
+      "description": "My website"
+    }
+  ]
+}
