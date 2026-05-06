@@ -30,7 +30,9 @@ function renderLinks(data) {
   linksContainer.replaceChildren(...data.links.map(createLinkButton));
 }
 
-fetch("links.json")
+fetch(`links.json?v=1.0`, {
+  cache: "no-store"
+})
   .then((response) => {
     if (!response.ok) {
       throw new Error("Could not load links.json");
