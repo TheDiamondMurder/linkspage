@@ -30,6 +30,11 @@
       "label": "Best Cheap Video Games",
       "url": "https://www.eneba.com/",
       "description": "(NOT SPONSORED)"
+    },
+    {
+      "label": "Alton Towers Guide",
+      "url": "https://cdn.jakublabs.xyz/pdf/AltonTowersGuide.pdf",
+      "description": "My guide on mastering a day out at Alton Towers"
     }
   ]
 }
