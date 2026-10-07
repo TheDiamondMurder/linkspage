@@ -22,6 +22,11 @@
       "description": "My website"
     },
     {
+      "label": "My Movie List",
+      "url": "https://jakublabs.xyz/movielist/diamond",
+      "description": "Ranked list of movies I have watched (that i remember of)"
+    },
+    {
       "label": "My Geometry Dash List",
       "url": "https://jakublabs.xyz/gdlist/TechsionGD",
       "description": "My personal hardest levels list that I have completed"
